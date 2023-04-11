@@ -8,9 +8,6 @@
 - [NAGAD: One of the largest MFS in Bangladesh](https://nagad.com.bd/)
 - [KONA Card: a secure, fast and robust platform based on host card emulation (HCE) and tokenization in South Korea](https://konai.com/business/fintech/kona_card)
 
-## Currently Learning
-- **System Design**
-
 ## Ask me about 
 - **Microservice, Java, Spring Boot, Oracle, Redis, RabbitMQ, Fintech, Large Scale Systems**
 
@@ -34,6 +31,3 @@ or <i>atiqurrahman7465@gmail.com</i>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atique7465&show_icons=true&locale=en&layout=compact" alt="atique7465" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atique7465&show_icons=true&locale=en" alt="atique7465" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atique7465&" alt="atique7465" /></p>
-
-## My daily routine
-![](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
