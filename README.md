@@ -28,7 +28,7 @@ or <i>atiqurrahman7465@gmail.com</i>
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Problem Solving </b>
 <br>
 
-![](https://leetcard.jacoblin.cool/ati_que?theme=light)
+![](https://leetcard.jacoblin.cool/ati_que?ext=heatmap)
 
 ## Github Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atique7465&show_icons=true&locale=en&layout=compact" alt="atique7465" /></p>
