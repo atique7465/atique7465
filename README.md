@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Atiqur Rahman</h1>
+<h1 align="center">Atiqur Rahman</h1>
 <h3 align="center">A passionate Java Backend Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atique7465&label=Profile%20views&color=0e75b6&style=flat" alt="atique7465" /> </p>
