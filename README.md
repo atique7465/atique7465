@@ -1,6 +1,6 @@
 [![MasterHead](https://www.dwsit.com/upload/backend-development-1584616173.jpg)](https://www.linkedin.com/in/atiqur-rahman7465/)
 <h1 align="center">Atiqur Rahman</h1>
-<h3 align="center">A passionate Java Backend Developer from Bangladesh</h3>
+<h3 align="center">Java Backend Developer from Bangladesh</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
 
 ## Current Projects
