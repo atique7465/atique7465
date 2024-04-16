@@ -9,7 +9,7 @@
 - [KONA Card: a secure, fast and robust platform based on host card emulation (HCE) and tokenization in South Korea](https://konai.com/business/fintech/kona_card)
 
 ## Ask me about 
-- **Microservice, Java, Spring Boot Ecosystem, Oracle, MariaDB, MongoDB, Redis, Apache Kafka, RabbitMQ, Fintech, Large Scale Systems**
+- **Microservice, Java, Spring Boot Ecosystem, AWS, Oracle, MariaDB, MongoDB, DynamoDB, Redis, Apache Kafka, RabbitMQ, Fintech, Large Scale Systems**
 
 ## Connect with me:
 <p align="left">
